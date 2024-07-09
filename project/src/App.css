@@ -1,0 +1,13 @@
+.sidebar{
+background-color: #f8f9fa;
+height: 100vh;
+
+}
+.sidebar a{
+    text-decoration: none;
+
+    }
+.sidebar li{
+padding: 10px 5px;
+text-align: center;
+}
